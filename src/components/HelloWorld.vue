@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>We have done changes here in poco</h2>
+
 
   </div>
 </template>
