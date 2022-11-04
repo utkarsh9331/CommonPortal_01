@@ -1,8 +1,7 @@
 <template>
   <div class="hello">
-    <h1>This is the SAP portal</h1>
+    <h1>{{ msg }}</h1>
 
-    <h2>We have done changes here in poco</h2>
 
   </div>
 </template>
